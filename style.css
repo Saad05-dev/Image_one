@@ -1,0 +1,9 @@
+.HEAD{
+    background-color: rgb(0, 0, 90);
+    display: flex;
+}
+.links{
+    color: white;
+    text-decoration: none;
+    flex: 1 1 0;
+}
